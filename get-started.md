@@ -64,9 +64,8 @@ STEP3：ナレッジベースに名前をつけます。任意の名前を入力
 
 <br>
 
-STEP4：QnA MakerにFAQデータを追加します。
-FAQ サイト、Q&A を記載したファイルをアップロードすることができます。
-今回のハンズオンでは「[Azure support FAQ page](https://azure.microsoft.com/ja-jp/support/faq/)」を入力します。
+STEP4：  
+QnA MakerにFAQデータを追加します。FAQ サイト、Q&A を記載したファイルをアップロードすることができます。今回のハンズオンでは「https\://azure.microsoft.com/ja-jp/support/faq/」を入力します。
 
 ![image.png](images/step4.png)
 
