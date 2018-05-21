@@ -22,7 +22,7 @@ QnA Maker のページ  にアクセスし、上部バーの [Create a knoledge 
 ![image.png](images/lnowledgebaseheader.png)
 
 
-
+<br>
 
 STEP1：「Create a QnA service」をクリックするとAzure PortalのQnA Maker作成画面が表示されます。
 
