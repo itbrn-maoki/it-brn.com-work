@@ -44,6 +44,7 @@ Azure PortalのQnA Maker作成画面で以下の情報を入力します。
 [作成] をクリックすると、サービスが作成されます。
 ![image.png](images/createqnamaker.png)
 
+<br>
 
 STEP2：Azure PortalでQna Makerの作成が完了したら、以下の情報を入力します。
 ※Qna Makerの作成完了はAzure Portalの画面右上に通知で表示されます。
@@ -55,10 +56,13 @@ STEP2：Azure PortalでQna Makerの作成が完了したら、以下の情報を
 
 ![image.png](images/step2.png)
 
+<br>
 
 STEP3：ナレッジベースに名前をつけます。任意の名前を入力します。
 
 ![image.png](images/step3.png)
+
+<br>
 
 STEP4：QnA MakerにFAQデータを追加します。
 FAQ サイト、Q&A を記載したファイルをアップロードすることができます。
@@ -66,9 +70,11 @@ FAQ サイト、Q&A を記載したファイルをアップロードすること
 
 ![image.png](images/step4.png)
 
+<br>
+
 STEP5：「Create your KB」をクリックしナレッジベースを作成します。
 
-![image.png](images/step5.png)
+![image.png](images/step5.PNG)
 
 
 ナレッジベースの作成が完了すると、ナレッジベースの編集ページが開きます。
@@ -76,10 +82,11 @@ STEP5：「Create your KB」をクリックしナレッジベースを作成し�
 
 ![image.png](images/myknowledgebase.png)
 
-
+<br>
 QAを変更した場合は、画面右上の[Save and train]をクリックし、編集内容を保存し、QnA Makerモデルのトレーニングを行います。
 
-
+<br>
+<br>
 
 ### Q&A のテスト
 画面右上の[← Test]をクリックすると、QAのテスト用のページが表示され、実際の QnA Makerの動作を確認できます。想定された質問を入力すると、ナレッジベースから適切な答えを Bot が返答します。
@@ -87,12 +94,14 @@ QAを変更した場合は、画面右上の[Save and train]をクリックし�
 
 ![image.png](images/tests.png)
 
+<br>
 
 [Inspect]をクリックすることでBotの回答の詳細を確認することができます。
 
 ![image.png](images/test-detail.png)
 
-
+<br>
+<br>
 
 ### QnA Maker の Web 公開
 [PUBLISH]をクリックすることでナレッジベースをWebに公開することができます。
@@ -100,11 +109,12 @@ QAを変更した場合は、画面右上の[Save and train]をクリックし�
 
 ![image.png](images/publish1.png)
 
-
+<br>
 
 ![image.png](images/publish.png)
 
 
+<br>
 
 QnA Makerサービスが正常に公開されると作成したQnA Makerのエンドポイントが表示されます。
 
