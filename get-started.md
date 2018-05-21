@@ -5,13 +5,13 @@
 ## Cognitive Services の新サービス、QnA Maker
 Cognitive Services に QnA Maker と呼ばれる新サービスが追加されました。
 
-- QnA Maker introduction on Cognitive Services Website
-- QnA Maker Website
+- [QnA Maker introduction on Cognitive Services Website](https://azure.microsoft.com/ja-jp/services/cognitive-services/qna-maker/)
+- [QnA Maker Website](https://www.qnamaker.ai/)
 
 こちらは、質問＆回答のリスト、または FAQ のような Web サイトから、Q&A を行う BOT をコーディングなしで自動生成できるサービスです。QnA Maker で作成した AI エンジンは、Web API 経由でアクセスして回答を得られる Web サービス として利用できるほか、Azure Bot Service のテンプレートとしても選択できるようになりました。
 Q&A のリストを編集・追加も GUI の画面から行うことができます。
 
-![image.png](images/lnowledgebase.png)
+![image.png](images/lnowledgebase2.png)
 
 
 
@@ -65,8 +65,6 @@ FAQ サイト、Q&A を記載したファイルをアップロードすること
 今回のハンズオンでは「https://azure.microsoft.com/ja-jp/support/faq/」を入力します。
 
 ![image.png](images/step4.png)
-
-KBの作成をクリックします。
 
 STEP5：「Create your KB」をクリックしナレッジベースを作成します。
 
